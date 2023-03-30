@@ -49,4 +49,3 @@ const checkCashRegister =(price, cash, cid) => {
       }
     }
   }
-export {checkCashRegister}
